@@ -50,6 +50,10 @@ pdflatex -interaction=nonstopmode r2_lr_dp_subset_selection_v17.tex
 Version V17 makes the manuscript more arXiv-ready: it shortens the title, updates the running head, adds code availability with a GitHub placeholder, adds acknowledgements and a declaration on generative AI use, updates the section overview, and keeps the expanded matrix-search appendix. It adds a brief introduction to Monge matrices and total monotonicity, cites both the original SMAWK/matrix-search paper and a Monge-properties survey, and includes a small numerical example plus a staircase-domain schematic.
 
 
-## Reproducibility repository placeholder
+## License
 
-https://github.com/emmerix/integral-r2-subset-selection
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt the material for any purpose, provided appropriate credit is given.
+
+See the full license here: https://creativecommons.org/licenses/by/4.0/
